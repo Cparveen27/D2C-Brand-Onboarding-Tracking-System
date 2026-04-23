@@ -17,22 +17,19 @@ Inspired by real-world startup workflows.
 ## 📁 Project Structure
 
 brand-tracking-system/
--│
--├── controllers/
--│  └── brandController.js 
--│
--├── routes/
--│  └── brandRoutes.js
--│
--├── db.js                 
--├── sql/
--│   └── brand_system.sql   
--│
--├── node_modules/              
--├── .gitignore                 
--├── package.json               
--├── server.js                  
--└── README.md                  
+- │
+- ├── controllers/
+- │ ├── brandController.js 
+- ├── routes/
+- │ ├── brandRoutes.js
+- ├── db.js                 
+- ├── sql/
+- │ ├── brand_system.sql   
+- ├── node_modules/              
+- ├── .gitignore                 
+- ├── package.json               
+- ├── server.js                  
+- └── README.md                  
 
 ## ✨ Features
 
