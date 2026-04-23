@@ -19,12 +19,15 @@ Inspired by real-world startup workflows.
 brand-tracking-system/
 -│
 -├── controllers/
--│  └── brandController.js    
+-│  └── brandController.js 
+-│
 -├── routes/
 -│  └── brandRoutes.js
+-│
 -├── db.js                 
 -├── sql/
--│   └── brand_system.sql       
+-│   └── brand_system.sql   
+-│
 -├── node_modules/              
 -├── .gitignore                 
 -├── package.json               
